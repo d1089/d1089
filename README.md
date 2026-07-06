@@ -8,7 +8,7 @@
 🧩 interests in psychology. art. music. literature. space<br>
 📌 Develops at JPL</p><br>
 
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/d1089/count.svg" />
 </p>
@@ -16,6 +16,6 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=d1089&show_icons=true&theme=dark)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d1089&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d1089&show_icons=true&theme=dark) -->
 
 
