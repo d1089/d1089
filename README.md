@@ -6,7 +6,7 @@
 🖥 develops webapps. digital projects. back-end works.<br>
 💪 codes for contributing to life. contributing to the community.<br>
 🧩 interests in psychology. art. music. literature. space<br>
-📌 Develops at JPL</p><br>
+📌 Adding security values to Merc</p><br>
 
 <!-- <p align="center"> 
   Visitor count<br>
